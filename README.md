@@ -48,6 +48,11 @@ execute the below command in the root folder where pom.xml is present
 
 mvn clean install
 
+### skip running the test cases
+execute the below command in the root folder where pom.xml is present
+
+mvn clean install -DskipTests
+
 ### Screeenshots of the application
 Please check the images folder for the application images
 
